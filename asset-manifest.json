@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/andromeda/static/css/main.6841a55d.css",
-    "main.js": "/andromeda/static/js/main.83d5cab1.js",
+    "main.js": "/andromeda/static/js/main.233a4639.js",
     "static/media/SFProDisplay-Bold.svg": "/andromeda/static/media/SFProDisplay-Bold.774c167b46abc43cbd89.svg",
     "static/media/SFProDisplay-Medium.svg": "/andromeda/static/media/SFProDisplay-Medium.c5e5658d813140bd20c8.svg",
     "static/media/SFProDisplay-Regular.svg": "/andromeda/static/media/SFProDisplay-Regular.d2fc1c78aea76cbcd2d0.svg",
@@ -58,10 +58,10 @@
     "index.html": "/andromeda/index.html",
     "static/media/login_btn.svg": "/andromeda/static/media/login_btn.81cde2d7780ddec3d953e2f37a86d9c8.svg",
     "main.6841a55d.css.map": "/andromeda/static/css/main.6841a55d.css.map",
-    "main.83d5cab1.js.map": "/andromeda/static/js/main.83d5cab1.js.map"
+    "main.233a4639.js.map": "/andromeda/static/js/main.233a4639.js.map"
   },
   "entrypoints": [
     "static/css/main.6841a55d.css",
-    "static/js/main.83d5cab1.js"
+    "static/js/main.233a4639.js"
   ]
 }
