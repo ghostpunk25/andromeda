@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/andromeda/static/css/main.b0c382ce.css",
+    "main.css": "/andromeda/static/css/main.e772730f.css",
     "main.js": "/andromeda/static/js/main.4f64329c.js",
     "static/media/SFProDisplay-Bold.svg": "/andromeda/static/media/SFProDisplay-Bold.774c167b46abc43cbd89.svg",
     "static/media/SFProDisplay-Medium.svg": "/andromeda/static/media/SFProDisplay-Medium.c5e5658d813140bd20c8.svg",
@@ -57,11 +57,11 @@
     "static/media/email.svg": "/andromeda/static/media/email.028fba864ce79048f16c3986766efb79.svg",
     "index.html": "/andromeda/index.html",
     "static/media/login_btn.svg": "/andromeda/static/media/login_btn.81cde2d7780ddec3d953e2f37a86d9c8.svg",
-    "main.b0c382ce.css.map": "/andromeda/static/css/main.b0c382ce.css.map",
+    "main.e772730f.css.map": "/andromeda/static/css/main.e772730f.css.map",
     "main.4f64329c.js.map": "/andromeda/static/js/main.4f64329c.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0c382ce.css",
+    "static/css/main.e772730f.css",
     "static/js/main.4f64329c.js"
   ]
 }
